@@ -1,0 +1,15 @@
+d:\c#\CleanArchitectureBase\src\core\Application\bin\Debug\net8.0\Application.deps.json
+d:\c#\CleanArchitectureBase\src\core\Application\bin\Debug\net8.0\Application.dll
+d:\c#\CleanArchitectureBase\src\core\Application\bin\Debug\net8.0\Application.pdb
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.dll
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\refint\Application.dll
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Application.pdb
+d:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\ref\Application.dll
+D:\c#\CleanArchitectureBase\src\core\Application\bin\Debug\net8.0\Domain.dll
+D:\c#\CleanArchitectureBase\src\core\Application\bin\Debug\net8.0\Domain.pdb
+D:\c#\CleanArchitectureBase\src\core\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

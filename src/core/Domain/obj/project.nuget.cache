@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Tl8aHkBdB4=",
+  "success": true,
+  "projectFilePath": "D:\\c#\\CleanArchitectureBase\\src\\core\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL PC\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\DELL PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
